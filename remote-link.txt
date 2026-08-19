@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://acrobat-newer-menu-reductions.trycloudflare.com/vnc.html
+URL       : https://hats-inherited-costs-ver.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 06:03:59
+Created   : 2026-08-19 11:02:46
 =======================================================
