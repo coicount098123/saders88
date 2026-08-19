@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hats-inherited-costs-ver.trycloudflare.com/vnc.html
+URL       : https://startup-journey-simplified-refinance.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 11:02:46
+Created   : 2026-08-19 16:05:09
 =======================================================
