@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://communist-cartridge-aimed-buzz.trycloudflare.com/vnc.html
+URL       : https://addressed-sudden-reid-conducted.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-20 03:15:44
+Created   : 2026-08-20 06:04:39
 =======================================================
