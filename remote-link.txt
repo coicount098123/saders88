@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tribe-animation-nicholas-course.trycloudflare.com/vnc.html
+URL       : https://deutsch-bay-instructors-info.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-23 03:33:04
+Created   : 2026-08-23 06:02:04
 =======================================================
