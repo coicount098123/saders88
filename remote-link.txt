@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pharmaceutical-acoustic-age-bytes.trycloudflare.com/vnc.html
+URL       : https://architectural-skills-moments-regards.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 15:07:15
+Created   : 2026-08-29 20:07:08
 =======================================================
